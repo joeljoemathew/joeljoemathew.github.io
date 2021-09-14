@@ -83,7 +83,6 @@ body {
     font-size:70px;
     text-decoration:underline;
 }
-#about {
 * {
   box-sizing: border-box;
 }
@@ -102,6 +101,8 @@ body {
   display: table;
   clear: both;
 }
+#about {
+
 
     width:10vw;
     height:10vw;
